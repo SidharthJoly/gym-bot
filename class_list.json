@@ -1,104 +1,5 @@
 [
   {
-    "booking_id": "103book40577",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Athena Nikolopoulos",
-    "location": "Marrickville",
-    "remaining_spots": 0,
-    "capacity": 4
-  },
-  {
-    "booking_id": "103book40450",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Shova Rana",
-    "location": "Marrickville",
-    "remaining_spots": 7,
-    "capacity": 8
-  },
-  {
-    "booking_id": "103book49719",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Yoga: Origins",
-    "class_type": "Yoga Series",
-    "instructor": "Tim Fiorentino",
-    "location": "Marrickville",
-    "remaining_spots": 32,
-    "capacity": 36
-  },
-  {
-    "booking_id": "106book24035",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Creche (6 weeks to 18 months)",
-    "class_type": "Creche",
-    "instructor": "Georgia Dame",
-    "location": "Merrylands",
-    "remaining_spots": 3,
-    "capacity": 4
-  },
-  {
-    "booking_id": "106book23540",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Creche (18 months - 12 years)",
-    "class_type": "Creche",
-    "instructor": "Cristina Valdes",
-    "location": "Merrylands",
-    "remaining_spots": 8,
-    "capacity": 8
-  },
-  {
-    "booking_id": "106book38206",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Sarah Wood",
-    "location": "Merrylands",
-    "remaining_spots": 20,
-    "capacity": 22
-  },
-  {
-    "booking_id": "104book34749",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Kayla Stanton",
-    "location": "Newtown",
-    "remaining_spots": 11,
-    "capacity": 20
-  },
-  {
-    "booking_id": "101book61147",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Infrared Pilates",
-    "class_type": "Mat Series",
-    "instructor": "Joey Curcio",
-    "location": "Surry Hills",
-    "remaining_spots": 11,
-    "capacity": 34
-  },
-  {
-    "booking_id": "101book59988",
-    "date": "2026-08-24",
-    "time": "11:00 AM",
-    "name": "Reformer: Signature",
-    "class_type": "Reformer Series",
-    "instructor": "Robynne Henry",
-    "location": "Surry Hills",
-    "remaining_spots": 16,
-    "capacity": 18
-  },
-  {
     "booking_id": "101book58757",
     "date": "2026-08-24",
     "time": "11:15 AM",
@@ -1800,7 +1701,7 @@
     "class_type": "Pulse & Build Series",
     "instructor": "Elizabeth Topfer",
     "location": "Marrickville",
-    "remaining_spots": 1,
+    "remaining_spots": 0,
     "capacity": 26
   },
   {
